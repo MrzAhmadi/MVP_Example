@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP Example</string>
+    <string name="studentname">StudentName</string>
+    <string name="name">Name</string>
+    <string name="set_name">Set Name</string>
+    <string name="show_name">Show Name</string>
+</resources>
